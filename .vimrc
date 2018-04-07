@@ -21,3 +21,9 @@ set mouse=a
 set t_Co=256
 set number
 colorscheme desert
+
+set incsearch
+set hlsearch
+set ignorecase
+set smartcase
+
