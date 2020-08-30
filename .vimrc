@@ -18,12 +18,13 @@ set smartindent
 set backspace=2
 set mouse=a
 
-set t_Co=256
+set t_Co=16
 set number
-colorscheme desert
 
 set incsearch
 set hlsearch
 set ignorecase
 set smartcase
 
+let c_no_curly_error=1
+let g:netrw_banner = 0
