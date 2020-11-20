@@ -28,3 +28,5 @@ set smartcase
 
 let c_no_curly_error=1
 let g:netrw_banner = 0
+
+hi Search ctermfg=Black
