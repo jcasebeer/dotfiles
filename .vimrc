@@ -25,6 +25,7 @@ set incsearch
 set hlsearch
 set ignorecase
 set smartcase
+set nowrap
 
 let c_no_curly_error=1
 let g:netrw_banner = 0
